@@ -1,0 +1,30 @@
+{
+	"name": "react-native-isemulator",
+	"version": "1.0.0",
+	"description": "Test for emulator or real device",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://skullquake.dedicated.co.za:3001/skullquake/react-native-isemulator.git"
+	},
+	"keywords":[
+		"android",
+		"ios",
+		"emulator"
+	],
+	"author": "Ockert van Schalkwyk",
+	"contributors":[
+		"Jorge Flores"
+	],
+	"homepage":"https://www.entidad.io",
+	"license": "MIT",
+	"peerDependencies":{
+	},
+	"devDependencies":{
+		"react": "^17.0.1",
+		"react-native": "^0.62.2"
+	}
+}
