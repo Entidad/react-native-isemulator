@@ -43,6 +43,3 @@ export async function jsa_entidad_isemulator() {
 	// END USER CODE
 }
 ```
-
-## References
-Todo...
